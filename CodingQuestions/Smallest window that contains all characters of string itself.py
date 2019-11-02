@@ -1,6 +1,5 @@
 '''
-Q : Find the length of the smallest sub-string consisting of maximum distinct characters in a
-string.
+Q : Smallest window that contains all characters of string itself.
 
 Examples :
 
